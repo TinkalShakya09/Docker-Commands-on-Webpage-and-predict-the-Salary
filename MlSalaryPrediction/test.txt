@@ -1,1 +1,0 @@
-All MlSalaryPrediction file run in docker container in RHEL 8
